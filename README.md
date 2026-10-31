@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header-blackhole.svg" alt="Eric Carneiro — Backend · DevOps · Kubernetes. Animated pixel art of the Milky Way and constellations." width="100%" />
+  <img src="assets/header-blackhole-zoom.svg" alt="Eric Carneiro — Backend · DevOps · Kubernetes. Animated pixel art of the Milky Way and constellations." width="100%" />
 </div>
 
 ## 👋 >_ Hello there!
@@ -12,12 +12,12 @@ Right now I'm a **DevOps Engineer** automating build, test and deployment pipeli
 
 ## >_ What I'm up to
 
-* 🚀 **DevOps Engineer** at **EzerTech** *(May 2026 – Present)* — Docker, Jenkins CI/CD, automated deployments
-* 🤖 **Full Stack Developer** at **França Consultoria** *(Oct 2025 – Present)* — React + FastAPI, OCR, RAG and vector search for document analysis
-* 🩸 **Backend Developer** at **Santa Casa** *(Apr 2025 – Present)* — NestJS hemovigilance system with data validation and encryption
-* 🎓 **Research** at UFC — IoHT, AI and healthcare software engineering
+* **DevOps Engineer** at **EzerTech** *(May 2026 – Present)* — Docker, Jenkins CI/CD, automated deployments
+* **Full Stack Developer** at **França Consultoria** *(Oct 2025 – Present)* — React + FastAPI, OCR, RAG and vector search for document analysis
+* **Backend Developer** at **Santa Casa** *(Apr 2025 – Present)* — NestJS hemovigilance system with data validation and encryption
+* **Research** at UFC — IoHT, AI and healthcare software engineering
 
-## 🛠️ >_ Tech Stack
+## >_ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -32,7 +32,7 @@ Right now I'm a **DevOps Engineer** automating build, test and deployment pipeli
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-## ☸️ >_ Highlight: Kubernetes Platform
+## >_ Highlight: Kubernetes Platform
 
 Built and managed a **4-node Kubernetes cluster** for **Nuclic**, a university research group, centralizing and automating the deployment of the team's applications.
 
@@ -40,12 +40,12 @@ Built and managed a **4-node Kubernetes cluster** for **Nuclic**, a university r
 * **CI/CD pipelines** with Jenkins, BuildKit, Docker and Kubernetes: builds, image publishing, testing and deployments
 * Elastic container workloads, resource allocation, scaling and service availability across the cluster
 
-## 🚀 >_ Projects
+## >_ Projects
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Erikkaso/siteNuclic"><img src="https://opengraph.githubassets.com/1/Erikkaso/siteNuclic" width="100%" alt="siteNuclic" /></a>
+      <a href="https://https://nuclic.ufc.br"><img src="https://nuclic.ufc.br/assets/logo-nuclic-DGSCV-_Y.svg" width="100%" alt="siteNuclic" /></a>
       <br/>
       <a href="https://github.com/Erikkaso/siteNuclic"><b>siteNuclic</b></a>
       <br/>
@@ -68,7 +68,7 @@ Built and managed a **4-node Kubernetes cluster** for **Nuclic**, a university r
 * Contributor to the **NeoArcana** research project — backend APIs and IoHT health-monitoring integrations
 * Completed **NVIDIA's Fundamentals of Deep Learning** course
 
-## 📊 >_ Statistics & Social
+## >_ Statistics & Social
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=Erikkaso&theme=radical&hide_border=true&card_width=850" alt="GitHub streak stats" />
