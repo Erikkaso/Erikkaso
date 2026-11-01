@@ -45,9 +45,9 @@ Built and managed a **4-node Kubernetes cluster** for **Nuclic**, a university r
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://https://nuclic.ufc.br"><img src="https://nuclic.ufc.br/assets/logo-nuclic-DGSCV-_Y.svg" width="100%" alt="siteNuclic" /></a>
+      <a href="https://nuclic.ufc.br"><img src="https://nuclic.ufc.br/assets/logo-nuclic-DGSCV-_Y.svg" width="100%" alt="siteNuclic" /></a>
       <br/>
-      <a href="https://https://nuclic.ufc.br"><b>Nuclic</b></a>
+      <a href="https://nuclic.ufc.br"><b>Nuclic</b></a>
       <br/>
       <sub>Website of the Nuclic research group (React, Vite, TypeScript), containerized and deployed on Kubernetes</sub>
     </td>
