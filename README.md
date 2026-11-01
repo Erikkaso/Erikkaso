@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header-blackhole-bw-static.svg" alt="Eric Carneiro — Backend · DevOps · Kubernetes. Animated pixel art of the Milky Way and constellations." width="100%" />
+  <img src="assets/header-blackhole-bw-pulse.svg" alt="Eric Carneiro — Backend · DevOps · Kubernetes. Animated pixel art of the Milky Way and constellations." width="100%" />
 </div>
 
 ## 👋 >_ Hello there!
