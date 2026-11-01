@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="assets/header-blackhole-zoom.svg" alt="Eric Carneiro — Backend · DevOps · Kubernetes. Animated pixel art of the Milky Way and constellations." width="100%" />
+  <img src="assets/header-blackhole-bw-static.svg" alt="Eric Carneiro — Backend · DevOps · Kubernetes. Animated pixel art of the Milky Way and constellations." width="100%" />
 </div>
 
 ## 👋 >_ Hello there!
 
-Thanks for stopping by. *(Let's build something reliable.)*
+Thanks for stopping by.
 
 I'm **Eric Carneiro**, a Computer Engineering undergraduate at the **Federal University of Ceará (UFC)** in Brazil. I work across **backend development, computer networks, Kubernetes, DevOps and CI/CD**, building and deploying end-to-end solutions with a strong focus on reliability, scalability and practical impact.
 
@@ -47,7 +47,7 @@ Built and managed a **4-node Kubernetes cluster** for **Nuclic**, a university r
     <td align="center" width="50%">
       <a href="https://https://nuclic.ufc.br"><img src="https://nuclic.ufc.br/assets/logo-nuclic-DGSCV-_Y.svg" width="100%" alt="siteNuclic" /></a>
       <br/>
-      <a href="https://github.com/Erikkaso/siteNuclic"><b>siteNuclic</b></a>
+      <a href="https://https://nuclic.ufc.br"><b>Nuclic</b></a>
       <br/>
       <sub>Website of the Nuclic research group (React, Vite, TypeScript), containerized and deployed on Kubernetes</sub>
     </td>
